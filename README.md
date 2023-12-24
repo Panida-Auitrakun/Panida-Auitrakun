@@ -1,22 +1,18 @@
-### Hi there 👋
-
-
-**Panida-Auitrakun/Panida-Auitrakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hi 👋
+# My name is Panida Auitrakun
+## Student at Prince of Songkla University.
+#### I'm learning about web building, programming, web developer that is useful for project, and want to develop myself to have more knowledge.
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React PHP Laravel JavaScript etc.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: "Learn from the mistakes of others. You can't live long enough to make them all yourself."
 
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Panida-Auitrakun&show_icons=true&theme=radical" alt="github stats" width="45%" align="right"/>
-
-### Github Streaks
+### My Github Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panida-Auitrakun&theme=dark" width="48%" >
 
+<img src="https://github-readme-stats.vercel.app/api?username=Panida-Auitrakun&show_icons=true&theme=radical" alt="github stats" width="45%" align="right"/>
