@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Panida-Auitrakun&show_icons=true&theme=radical" alt="github stats" width="45%" align="right"/>
+
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Panida-Auitrakun&theme=dark" width="48%" >
+
