@@ -1,5 +1,4 @@
-# Hi 👋
-# My name is Panida Auitrakun
+# Hi 👋 I'm Panida. Welcome to my profile!!
 ## Student at Prince of Songkla University.
 #### I'm learning about web building, programming, web developer that is useful for project, and want to develop myself to have more knowledge.
 
@@ -10,9 +9,13 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: "Learn from the mistakes of others. You can't live long enough to make them all yourself."
+- ⚡ "Learn from the mistakes of others. You can't live long enough to make them all yourself."
 
-### My Github Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Panida-Auitrakun&theme=dark" width="48%" >
+## My Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Panida-Auitrakun&show_icons=true&theme=radical" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Panida-Auitrakun&show_icons=true&theme=radical" alt="Panida-Auitrakun" width="45%" align="right"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Panida-Auitrakun&theme=dark" width="48%" >
+
+## Top Languages
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panida-Auitrakun&layout=compact)
